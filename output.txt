@@ -1,0 +1,3 @@
+Peak Hour:1
+Average waiting time41.5
+Average service time2.5
